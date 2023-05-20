@@ -25,7 +25,7 @@ The Weather Application allows users to retrieve weather information for a speci
 
 ## Deployment
 
-The application is deployed using Netlify and can be accessed [here][(https://effortless-kataifi-62d2bb.netlify.app/)].
+The application is deployed using Netlify and can be accessed [here](https://effortless-kataifi-62d2bb.netlify.app/)
 
 ## Additional Notes
 
